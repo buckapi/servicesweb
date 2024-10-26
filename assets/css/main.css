@@ -9,10 +9,10 @@ Version: 1.0.0
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
 :root {
   --body: #fff;
-  --black: #000;
+  --black: #F7C92D;
   --white: #fff;
-  --theme: #384BFF;
-  --theme2: #FFA31A;
+  --theme: #5988CE;
+  --theme2: #F35F2A;
   --header: #0F0D1D;
   --text: #445375;
   --border: #D4DCFF;
